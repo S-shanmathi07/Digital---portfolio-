@@ -12,7 +12,7 @@ background-color: #fff;
 }
 header {
 background-color: #333;
-color: efff;
+color: blue;
 text-align: center;
 padding: 2rem 0;
 position: relative; /* Add this */
@@ -137,7 +137,7 @@ nav {
     <section id="resume">
         <center>
             <div class="section-content">
-                <a href=/storage/emulated/0/Pictures/Gallery/owner/business></a>
+                
             </div>
         </center>
     </section>
