@@ -87,10 +87,8 @@ nav {
  </head>
  <body>
     <header>
-        <div class="header-content>
            <h1>s.shanmathi</h1>
            <p>student</p>
-        </div>
     </header>
     <nav>
         <ul>
