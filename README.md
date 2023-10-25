@@ -8,10 +8,10 @@ body {
     font-family: Arial, sans-serif;
 margin: 0;
 padding: 0;
-background-color: #fff;
+background-color: white;
 }
 header {
-background-color: #333;
+background-color: white;
 color: blue;
 text-align: center;
 padding: 2rem 0;
@@ -88,7 +88,7 @@ nav {
  <body>
     <header>
         <div class="header-content">
-           <img src=/storage/8602-12EE/Documents/Shanmathi.jpg alt ="your profile picture" class ="profile-picture">
+        <img src=/storage/8602-12EE/Documents/Shanmathi.jpg/>
            <h3>s.shanmathi</h3>
            <p>student</p>
         </div>
